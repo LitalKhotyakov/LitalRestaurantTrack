@@ -1,0 +1,6 @@
+framework module Pods_FirestoreSwiftUIExample {
+  umbrella header "Pods-FirestoreSwiftUIExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
